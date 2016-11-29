@@ -60,7 +60,7 @@ $(document).ready(function() {
 
   appView.render();
 
-  // setInterval(function() {
-  //   // Call simulate() on each quote in the ApplicationView
-  // }, 1000);
+  setInterval(function() {
+    // Call simulate() on each quote in the ApplicationView
+  }, 1000);
 });
